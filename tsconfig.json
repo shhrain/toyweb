@@ -22,6 +22,9 @@
     }
   },
   "allowImportingTsExtensions": true, // 允许TypeScript文件通过TypeScript特定的扩展名如.ts, .mts, 或 .tsx互相导入
-  "include": ["src", "@types"],
+  "include": [
+    "src", 
+    "@types"
+  ],
   "exclude": ["node_modules"]
 }

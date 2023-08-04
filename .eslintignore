@@ -1,0 +1,6 @@
+.eslintrc.cjs
+.prettierrc
+node_modules
+dist
+.DS_Store
+*.local

@@ -36,4 +36,9 @@ pnpm start:testing // 测试环境
 pnpm build // 默认打包生产环境
 or
 pnpm build:dev // 也可以指定环境打包
-```  
+```
+
+4. 预览
+  ```pnpm
+    pnpm preview
+  ```
